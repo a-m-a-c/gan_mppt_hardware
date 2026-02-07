@@ -52,30 +52,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=top_level.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZPGABFOH
-
-[Document2]
 DocumentPath=microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -88,6 +71,14 @@ DocumentUniqueId=DFRRGMUT
 [Parameter1]
 Name=Revision
 Value=1
+
+[DiffPairSuffix1]
+Positive=_H
+Negative=_L
+
+[DiffPairSuffix2]
+Positive=_PositiveSuffix1
+Negative=_NegativeSuffix1
 
 [Configuration1]
 Name=Sources
