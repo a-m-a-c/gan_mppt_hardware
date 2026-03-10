@@ -69,7 +69,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DFRRGMUT
 
 [Document2]
-DocumentPath=boost_stage.SchDoc
+DocumentPath=boost_stage_HP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,7 +86,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QCRGQITT
 
 [Document3]
-DocumentPath=boost_stage.Harness
+DocumentPath=boost_stage_HP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
