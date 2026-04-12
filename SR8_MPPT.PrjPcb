@@ -137,7 +137,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZQVRLEJV
 
 [Document6]
-DocumentPath=test.PcbDoc
+DocumentPath=sr8_mppt.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
